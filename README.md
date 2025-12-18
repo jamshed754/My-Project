@@ -1,5 +1,4 @@
-A Novel Explainable Deep EnsembleFramework for Gastrointestinal Cancer Diagnosis.
-Title: A Novel Explainable Deep Ensemble Framework for Gastrointestinal Cancer Diagnosis
+Project Title: A Novel Explainable Deep Ensemble Framework for Gastrointestinal Cancer Diagnosis
 
 •	Description – An overview of the code/dataset
 This repository provides the complete implementation of a deep learning–based framework for multi-class stomach disease classification using endoscopic images. The dataset comprises three gastrointestinal disease categories: Polyps, Esophagitis, and Ulcerative Colitis, collected and organized following a structured training, validation, and testing protocol. 
